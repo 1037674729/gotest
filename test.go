@@ -1,4 +1,4 @@
-package main
+package test
 import "fmt"
 
 func Test1(){
